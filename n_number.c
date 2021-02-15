@@ -5,8 +5,7 @@ int main()
     int n;
     printf("enter the value of n");
     scanf("%d", &n);
-    do
-    {
+    do{
         printf("%d\n", i);
         i++;
 
